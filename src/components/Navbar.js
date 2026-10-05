@@ -35,7 +35,7 @@ function Navbar() {
         <Link to="/" className="nav-brand" onClick={close}>
           <img
             className="nav-logo"
-            src={`${process.env.PUBLIC_URL}/logo.png`}
+            src={`${process.env.PUBLIC_URL}/logoroyal.png`}
             alt=""
           />
           <span className="nav-brand-text">

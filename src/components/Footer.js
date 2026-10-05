@@ -7,7 +7,7 @@ function Footer() {
         <div className="footer-brand">
           <img
             className="nav-logo"
-            src={`${process.env.PUBLIC_URL}/logo.png`}
+            src={`${process.env.PUBLIC_URL}/logoroyal.png`}
             alt=""
           />
           <div>

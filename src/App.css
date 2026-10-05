@@ -42,14 +42,20 @@
 
 .nav-mark,
 .nav-logo {
-  width: 2.35rem;
-  height: 2.35rem;
+  width: 2.55rem;
+  height: 2.55rem;
   border-radius: 50%;
   display: grid;
   place-items: center;
   flex-shrink: 0;
-  object-fit: cover;
+  object-fit: contain;
   background: var(--white);
+  padding: 0.15rem;
+}
+
+.nav-logo {
+  width: 2.8rem;
+  height: 2.8rem;
 }
 
 .nav-mark {

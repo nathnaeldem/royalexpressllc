@@ -16,7 +16,7 @@ function Hero() {
           <div className="hero-brand-row reveal">
             <img
               className="hero-logo"
-              src={`${process.env.PUBLIC_URL}/logo.png`}
+              src={`${process.env.PUBLIC_URL}/logoroyal.png`}
               alt=""
             />
             <p className="hero-brand">Royal Express LLC</p>
